@@ -4,3 +4,18 @@
 [submodule "doc"]
 	path = doc
 	url = https://github.com/habari/doc.git
+[submodule "user/plugins/extendedlog"]
+	path = user/plugins/extendedlog
+	url = git://github.com/habari-extras/extendedlog.git
+[submodule "user/plugins/hconsole"]
+	path = user/plugins/hconsole
+	url = git://github.com/habari-extras/hconsole.git
+[submodule "user/plugins/plugin_directory"]
+	path = user/plugins/plugin_directory
+	url = git@github.com:habari-extras/plugin_directory
+[submodule "user/plugins/staticfront"]
+	path = user/plugins/staticfront
+	url = git://github.com/habari-extras/staticfront.git
+[submodule "user/themes/rino"]
+	path = user/themes/rino
+	url = git@github.com:habari-extras/rino
